@@ -12,9 +12,12 @@
     "react": "^18",
     "react-dom": "^18",
     "next": "latest",
+    "framer-motion": "^11.0.0",
     "lucide-react": "latest",
     "clsx": "latest",
-    "tailwind-merge": "latest"
+    "tailwind-merge": "latest",
+    "react-simple-maps": "latest",
+    "topojson-client": "latest"
   },
   "devDependencies": {
     "typescript": "^5",
